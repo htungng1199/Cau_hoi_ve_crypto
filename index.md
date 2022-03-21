@@ -35,7 +35,7 @@
                 animation: LoadingIndicator 0.6s ease infinite;
             }
         </style>
-<title>Whitepaper - LUNA RUSH</title>
+<title>Whitepaper - CÁC CÂU HỎI THƯỜNG GẶP VỀ THỊ TRƯỜNG CRYPTO</title>
 <link rel="preload" as="font" type="font/woff2" href="https://app.gitbook.com/public/fonts/Inter/Inter-Bold.woff2?v=3.19" crossorigin="anonymous">
 <link rel="preload" as="font" type="font/woff2" href="https://app.gitbook.com/public/fonts/Inter/Inter-BoldItalic.woff2?v=3.19" crossorigin="anonymous">
 <link rel="preload" as="font" type="font/woff2" href="https://app.gitbook.com/public/fonts/Inter/Inter-ExtraBold.woff2?v=3.19" crossorigin="anonymous">
